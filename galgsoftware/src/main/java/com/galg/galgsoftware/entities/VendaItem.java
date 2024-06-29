@@ -1,4 +1,4 @@
-package com.galg.galgsoftware;
+package com.galg.galgsoftware.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

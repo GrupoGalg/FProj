@@ -1,9 +1,9 @@
-package com.galg.galgsoftware;
+package com.galg.galgsoftware.services;
 
-import com.escolavr.pdv.dtos.CreateProdutoDto;
-import com.escolavr.pdv.entities.Produto;
-import com.escolavr.pdv.exceptions.NotFoundException;
-import com.escolavr.pdv.repositories.ProdutoRepository;
+import com.galg.galgsoftware.dtos.CreateProdutoDto;
+import com.galg.galgsoftware.entities.Produto;
+import com.galg.galgsoftware.exceptions.NotFoundException;
+import com.galg.galgsoftware.repositories.ProdutoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

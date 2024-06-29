@@ -1,4 +1,4 @@
-package com.galg.galgsoftware;
+package com.galg.galgsoftware.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

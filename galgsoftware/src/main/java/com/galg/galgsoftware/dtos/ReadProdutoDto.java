@@ -1,4 +1,4 @@
-package com.galg.galgsoftware;
+package com.galg.galgsoftware.dtos;
 
 import java.math.BigDecimal;
 

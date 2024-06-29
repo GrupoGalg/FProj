@@ -1,9 +1,9 @@
 package com.galg.galgsoftware;
 
-import com.escolavr.pdv.dtos.CreateProdutoDto;
-import com.escolavr.pdv.dtos.ReadProdutoDto;
-import com.escolavr.pdv.entities.Produto;
-import com.escolavr.pdv.services.ProdutoService;
+import com.galg.galgsoftware.dtos.CreateProdutoDto;
+import com.galg.galgsoftware.dtos.ReadProdutoDto;
+import com.galg.galgsoftware.entities.Produto;
+import com.galg.galgsoftware.services.ProdutoService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

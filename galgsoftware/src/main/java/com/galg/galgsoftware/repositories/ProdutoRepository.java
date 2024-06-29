@@ -1,6 +1,6 @@
-package com.galg.galgsoftware;
+package com.galg.galgsoftware.repositories;
 
-import com.escolavr.pdv.entities.Produto;
+import com.galg.galgsoftware.entities.Produto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
